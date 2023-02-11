@@ -1,5 +1,6 @@
 ﻿# Contributors
 
+- [Benjamin Rukundo](https://github.com/rukundob451)
 - [Sergey Romanenko](https://github.com/Awilum)
 - [Alexander Shen](https://github.com/shenalexw)
 - [Deepesh Kumar Jha](https://github.com/DeepeshKumarJha)
